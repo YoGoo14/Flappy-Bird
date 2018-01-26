@@ -1,0 +1,22 @@
+body{
+  background-color: #778899;
+  height: 90vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+section{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 600px;
+  width: 400px;
+  background-image: url("http://www.mulierchile.com/flappy-bird-background/flappy-bird-background-002.jpg");
+  background-size: cover;
+  }
+#bird{
+  width: 60px;
+}
+* {padding:0; margin:0; font-size:1em; border:0}
+
+#zone {border:3px solid #007da0; margin:3em; height:150px; width:300px}
